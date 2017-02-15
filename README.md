@@ -158,7 +158,7 @@ D/OpenSLExample( 1329): endianness      = 2
 D/OpenSLExample( 1329): duration        = 106318 [ms]
 D/OpenSLExample( 1329): decoded samples = 2 [samples]
 D/OpenSLExample( 1329): destroyObjects()
----
+```
 
 </p></details>
 
